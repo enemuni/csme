@@ -43,12 +43,6 @@ Car Entrance Automation.
 
 Our product catalog has a wide variety of recognition systems and software for the industry. We supply hardware, software, installation and all the support needed for the application.
 
-
-
-
-
-
-
-<a href="./contact"> Conctact</a> 
+<a href="./contacto"> Conctact</a> 
 
 <a href="./index"> Go Back</a> 
